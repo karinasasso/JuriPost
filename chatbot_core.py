@@ -1,5 +1,5 @@
 import os
-from google import genai
+from google import google.generativeai as genai
 from google.adk.agents import Agent
 from google.adk.runners import Runner
 from google.adk.sessions import InMemorySessionService
