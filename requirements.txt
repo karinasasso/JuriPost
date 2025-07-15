@@ -3,5 +3,5 @@ google-generativeai==0.7.0
 python-dotenv==1.0.1
 langchain==0.2.11
 langchain-google-genai==1.0.10
-langchain-core==0.2.33         # Versão ajustada para satisfazer todas as dependências
-google-generativeai-sdk==0.6.5
+langchain-core==0.2.33        
+google-adk==1.6.1
