@@ -2,5 +2,5 @@ streamlit==1.36.0
 google-generativeai==0.7.0
 python-dotenv==1.0.1
 langchain==0.2.11
-langchain-google-genai==1.0.10  # Versão mais recente na família 1.x que tende a ser mais estável com 0.2.x do langchain
-langchain-core==0.2.23         # Versão mínima exigida pelo langchain 0.2.11
+langchain-google-genai==1.0.10
+langchain-core==0.2.33         # Versão ajustada para satisfazer todas as dependências
